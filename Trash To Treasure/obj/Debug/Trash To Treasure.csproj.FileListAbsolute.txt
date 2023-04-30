@@ -1,0 +1,59 @@
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\Trash To Treasure.dll.config
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\Trash To Treasure.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\Trash To Treasure.pdb
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\csc.exe
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\csc.exe.config
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\csc.rsp
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\csi.exe
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\csi.exe.config
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\csi.rsp
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.Managed.Core.targets
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.AppContext.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Collections.Immutable.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Console.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Globalization.Calendars.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.IO.Compression.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.IO.FileSystem.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Net.Http.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Net.Sockets.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Reflection.Metadata.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.ValueTuple.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Xml.XmlDocument.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Xml.XPath.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\vbc.exe
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\vbc.exe.config
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\vbc.rsp
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\VBCSCompiler.exe
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\roslyn\VBCSCompiler.exe.config
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\clg project\Trash To Treasure\Trash To Treasure\obj\Debug\Trash To Treasure.csproj.AssemblyReference.cache
+D:\clg project\Trash To Treasure\Trash To Treasure\obj\Debug\Trash To Treasure.csproj.CoreCompileInputs.cache
+D:\clg project\Trash To Treasure\Trash To Treasure\obj\Debug\Trash To Treasure.csproj.CopyComplete
+D:\clg project\Trash To Treasure\Trash To Treasure\obj\Debug\Trash To Treasure.dll
+D:\clg project\Trash To Treasure\Trash To Treasure\obj\Debug\Trash To Treasure.pdb
